@@ -1,12 +1,11 @@
 {
 	"geode": "2.0.0",
 	"gd": "2.204",
-	"version": "v1.0.2",
-	"id": "elnexreal.auto_priority",
-	"name": "Auto priority to high",
-	"developer": "elnexreal",
-	"description": "Set your process priority to high when you launch the game.",
-	"repository": "https://github.com/elnexreal/autoSetPriority",
+	"version": "v1.0.0",
+	"id": "arigi.auto_priority_realtime",
+	"name": "Auto priority to realtime",
+	"developer": "arigi",
+	"description": "Set your process priority to realtime when you launch the game.",
 	"tags": [
 		"Utility",
 		"Performance"
